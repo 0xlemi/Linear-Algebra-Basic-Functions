@@ -1,2 +1,2 @@
-# Linear-Algebra-Refresher-Course-Udacity
-Practice code
+# Linear-Algebra-Basic-Functions
+Functions is python for the most commun basic linear algebra operations.
